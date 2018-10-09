@@ -1,2 +1,4 @@
 /tf_files/
 __pycache__/
+
+frozen_model.pb
